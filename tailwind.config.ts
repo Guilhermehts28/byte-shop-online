@@ -24,6 +24,16 @@ export default {
 				ring: 'hsl(var(--ring))',
 				background: 'hsl(var(--background))',
 				foreground: 'hsl(var(--foreground))',
+				byteshop: {
+					purple: '#9b87f5',
+					darkPurple: '#7E69AB',
+					deepPurple: '#1A1F2C',
+					lightPurple: '#D6BCFA',
+					gray: '#8E9196',
+					lightGray: '#F1F0FB',
+					blue: '#1EAEDB',
+					skyBlue: '#33C3F0',
+				},
 				primary: {
 					DEFAULT: 'hsl(var(--primary))',
 					foreground: 'hsl(var(--primary-foreground))'
